@@ -1,0 +1,15 @@
+global.FoodType = {
+    TOMATO: 0,
+    LETTUCE: 1,
+    BREAD: 2,
+    MUSHROOM: 3,
+    BACON: 4,
+    BUN: 5,
+    CHEESE: 6,
+    PATTY: 7,
+    RICE: 8,
+    FISH: 9,
+    SHRIMP: 10,
+    DOUGH: 11,
+    STEAK: 12,
+};

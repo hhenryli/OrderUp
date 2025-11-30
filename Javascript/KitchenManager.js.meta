@@ -1,0 +1,58 @@
+- !<AssetImportMetadata/c1181082-804d-4a97-9edf-d63d0dfb3e29>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 82b58a07-dc68-4a8c-997c-43d72a7b8ba4
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 82b58a07-dc68-4a8c-997c-43d72a7b8ba4
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> f45abab8-013a-4850-a978-6dc2b0edf0f0
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/f45abab8-013a-4850-a978-6dc2b0edf0f0>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 0d64b3c9-bb25-43f6-82d0-d13d37c5b4eb
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    boardPrefab: false
+    foodInstantiator: false
+    foodPrefabs: false
+    foodScript: false
+    objectInstantiator: false
+    panPrefab: false
+    panScript: false
+    platePrefab: false
+    rootFoodSpawn: false
+    showLogs: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - foodInstantiator: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      objectInstantiator: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      foodPrefabs: !<reference.ObjectPrefab[]>
+        []
+      panPrefab: !<reference.ObjectPrefab> 00000000-0000-0000-0000-000000000000
+      boardPrefab: !<reference.ObjectPrefab> 00000000-0000-0000-0000-000000000000
+      platePrefab: !<reference.ObjectPrefab> 00000000-0000-0000-0000-000000000000
+      showLogs: true
+      foodScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      panScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      rootFoodSpawn: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

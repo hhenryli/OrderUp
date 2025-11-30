@@ -1,0 +1,51 @@
+- !<AssetImportMetadata/14f9c577-8e3e-4f2e-9ef3-5d6ed7a572c8>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 5742ea29-bacf-460c-a512-7dac21edfcf1
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 5742ea29-bacf-460c-a512-7dac21edfcf1
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 726e2dde-85d9-4203-9f69-c9faafe855fc
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/726e2dde-85d9-4203-9f69-c9faafe855fc>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: effe8ce0-783c-4176-b53d-588604bbd31f
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    countText: false
+    endMenu: false
+    gameDuration: false
+    scoreText: false
+    startButton: false
+    submissionScript: false
+    timerText: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - timerText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      gameDuration: !<float> 180.000000
+      startButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      endMenu: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      scoreText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      countText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      submissionScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

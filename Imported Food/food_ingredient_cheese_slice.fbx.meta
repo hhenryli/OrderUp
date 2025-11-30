@@ -1,0 +1,117 @@
+- !<AssetImportMetadata/dc983e62-9057-4712-8f72-944f1ceb96b5>
+  ImportedAssetIds:
+    .hidden/restaurant: !<reference> b6cb78f5-d876-44f9-8ec5-31357989046b
+    .hidden/white: !<reference> e4f4b09d-b308-4775-aead-e16d3bdde952
+    3a4c4bbb62c8eae6: !<reference> 65435ef5-5726-4d9d-94a7-22ab2216be19
+    66780cf3a4dcb2b8: !<reference> e4d257fb-c658-423c-85a8-e86e9edf681d
+    85fc7b31509f13c0: !<reference> df902ad5-11d1-4047-b489-83bccf5120a4
+    Materials/restaurant: !<reference> 6492ff54-fe82-4021-b8ba-a97e03a2460a
+    Materials/restaurant|restaurant|GraphPassInfo: !<reference> d43ac9fc-486f-415d-8caf-172606ca841c
+    Meshes/food_ingredient_cheese_slice: !<reference> 9b540ffd-90e4-4319-b30f-d0efbcf5106a
+    Scene: !<reference> 019a0bb1-ee4c-4654-a4a9-31e7ec922f89
+    Textures/restaurantbits_texture: !<reference> 862154f6-e14a-470b-aa82-6b10212a6a97
+  ImporterName: FbxImporter
+  PrimaryAsset: !<reference> 019a0bb1-ee4c-4654-a4a9-31e7ec922f89
+  PackageType: LegacyPackage
+  PackagePolicy: CanBeUnpackedTransparent
+  ExtraData:
+    {}
+  AssetDataMap:
+    Scene: !<own> 77fd8f19-13c1-49f2-aa75-824c0b5c34ef
+  DependentFiles:
+    []
+  ImporterSettings: !<FbxImporterSettings>
+    UseLegacyImporter: false
+    WithMaterials: true
+    NamingConvention: ByCategorySanitizeV2
+    PersistentIdGenerationAlgorithm: DescriptorBased
+    AnimationCurveOptimization: true
+    CustomAnimationSamplingRate: 30.000000
+    ImportVertexColor: true
+    ImportTangentsAndBinormals: true
+    RegenerateTangentsAndBinormals: false
+    RegenerateNormalsForSkinnedMeshes: true
+    ImportBlendShapeAnimation: true
+    ImportVertexAnimation: true
+    GeneratePivots: true
+    TriangulateNURBS: true
+    UseLegacyFbxLoader: false
+  CompressionSettings: !<ComplexCompressionSettings>
+    Presets:
+      None Compression: !<SingleCompressionSettings>
+        CompressorName: None
+        CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+      Performance Compression: !<SingleCompressionSettings>
+        CompressorName: Performance
+        CompressionSettings: !<TextureCompressionMipmapSettings>
+          Level: Medium
+          Mipmap: false
+    ExtensionMappings:
+      mesh: None Compression
+      png: Performance Compression
+      jpg: Performance Compression
+    Overrides:
+      {}
+- !<ObjectPrefab/0acf9582-17b8-4ae8-88a2-4ab9c48ea2d2>
+  PackagePath: ""
+  objects:
+    - !<own> df2a2cce-788e-42d6-b33b-473137337daf
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/65769e88-db4a-4d83-a97f-3ddad19eefc3>
+  PrefabRemaps:
+    []
+  Name: food_ingredient_cheese_slice
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> d9829178-bb63-4cf0-84ef-8b4260b00015
+- !<ObjectPrefabAssetData/77fd8f19-13c1-49f2-aa75-824c0b5c34ef>
+  SourceRemaps:
+    - 019a0bb1-ee4c-4654-a4a9-31e7ec922f89: 0acf9582-17b8-4ae8-88a2-4ab9c48ea2d2
+    - 65435ef5-5726-4d9d-94a7-22ab2216be19: 65769e88-db4a-4d83-a97f-3ddad19eefc3
+    - df902ad5-11d1-4047-b489-83bccf5120a4: d9829178-bb63-4cf0-84ef-8b4260b00015
+    - e4d257fb-c658-423c-85a8-e86e9edf681d: df2a2cce-788e-42d6-b33b-473137337daf
+  SourceState: !<own> 0acf9582-17b8-4ae8-88a2-4ab9c48ea2d2
+- !<RenderMeshVisual/d9829178-bb63-4cf0-84ef-8b4260b00015>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6492ff54-fe82-4021-b8ba-a97e03a2460a
+  Mesh: !<reference> 9b540ffd-90e4-4319-b30f-d0efbcf5106a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/df2a2cce-788e-42d6-b33b-473137337daf>
+  PrefabRemaps:
+    []
+  Name: food_ingredient_cheese_slice
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 65769e88-db4a-4d83-a97f-3ddad19eefc3
+  Components:
+    []

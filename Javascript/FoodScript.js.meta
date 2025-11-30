@@ -1,0 +1,68 @@
+- !<AssetImportMetadata/f6598f64-f292-422e-982b-3968995240e8>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 28379150-cc24-4e71-bf97-5807533b2380
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 28379150-cc24-4e71-bf97-5807533b2380
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> f3525cb0-505f-4a54-9591-cfcf3a5e89fd
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/f3525cb0-505f-4a54-9591-cfcf3a5e89fd>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 9abb40d9-705e-4894-bec4-aec35e6e75ba
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    board: false
+    boardScript: false
+    choppable: false
+    cookable: false
+    foodName: false
+    kitchenScript: false
+    meshOptions: false
+    pan: false
+    panScript: false
+    plate: false
+    plateScript: false
+    rootObjectSpawn: false
+    snapDistance: false
+    thisPrefab: false
+    visual: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - thisPrefab: !<reference.ObjectPrefab> 00000000-0000-0000-0000-000000000000
+      pan: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      board: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      plate: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      panScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      boardScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      plateScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      kitchenScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      cookable: false
+      choppable: false
+      snapDistance: !<float> 0.000000
+      visual: !<reference.RenderMeshVisual> 00000000-0000-0000-0000-000000000000
+      meshOptions: !<reference.RenderMesh[]>
+        []
+      foodName: 0
+      rootObjectSpawn: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

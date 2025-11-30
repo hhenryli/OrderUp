@@ -1,0 +1,47 @@
+- !<AssetImportMetadata/67ca949d-5523-4946-adec-27204187faee>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> ded7d238-78da-40af-abc6-7e12928a072a
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> ded7d238-78da-40af-abc6-7e12928a072a
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 38655323-a51c-4301-b9d1-13ad376b9022
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/38655323-a51c-4301-b9d1-13ad376b9022>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 4752a902-423a-4427-a169-87c6bd7e1419
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    foodScript: false
+    showLogs: false
+    snapDistance: false
+    submissionScript: false
+    submissionSpot: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - showLogs: true
+      submissionSpot: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      submissionScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      snapDistance: !<float> 0.000000
+      foodScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

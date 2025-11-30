@@ -1,0 +1,43 @@
+- !<AssetImportMetadata/cc89e4a5-b8a8-4f49-b246-ebc9cf452c52>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 8698d876-966f-44ad-8218-4ca421614031
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 8698d876-966f-44ad-8218-4ca421614031
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> f51b923d-7b98-4bce-9c71-21912c416be9
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/f51b923d-7b98-4bce-9c71-21912c416be9>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 45620d9a-31f7-48ad-9656-05721b6eacbf
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    kitchenManager: false
+    originalPlate: false
+    platePrefab: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - kitchenManager: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      originalPlate: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      platePrefab: !<reference.ObjectPrefab> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
