@@ -1,0 +1,63 @@
+dock:
+  isLocked: false
+  main:
+    items:
+      - items:
+          - items:
+              - persistentName: Snap.Plugin.Gui.SceneHierarchyEditor
+                Uuid: eafd879a-ef77-4334-8913-ad0a2bce8a55
+              - persistentName: Snap.Plugin.Gui.SceneHierarchyEditor
+                Uuid: 2a8b2fcc-2067-47e8-ac88-6c831447cc2d
+              - persistentName: Snap.Plugin.Gui.ConnectedLensMonitorPanel
+                Uuid: 33405d56-86f8-4e8c-a0eb-7e0f5790b55a
+              - persistentName: Snap.Plugin.Gui.SpectaclesMonitorPanel
+                Uuid: d1bc9af1-9a51-4318-8384-a6fb45fcb8b6
+            type: section
+            current: 0
+          - items:
+              - persistentName: Snap.Plugin.Gui.AssetBrowser
+                Uuid: 3fcbfc80-a6df-4c24-9f80-36c023c6b15c
+            type: section
+            current: 0
+        sizes:
+          - 503
+          - 342
+        type: splitter
+        orientation: vertical
+      - items:
+          - persistentName: Snap.Plugin.Gui.SceneEditor
+            Uuid: 9fa3c546-3a06-4f8c-a181-cabd80f9481b
+          - persistentName: Snap.Plugin.Gui.LoggerPanel
+            Uuid: 56132d13-1b41-4f22-9a8a-8620a2816b11
+          - persistentName: Snap.Plugin.Gui.ScriptEditorPanel
+            Uuid: 0e333940-724c-48b3-a9ae-6bcbabf571f7
+          - persistentName: Snap.Plugin.Gui.SceneEditor
+            Uuid: 75c23a61-eeed-47b5-8c9a-10f886e6be14
+          - persistentName: Snap.Plugin.Gui.Graph.Editor
+            Uuid: 6dc721cb-6d9d-404d-8aaf-566ff9eeb48f
+        type: section
+        current: 3
+      - items:
+          - items:
+              - persistentName: Snap.Plugin.Gui.PreviewPanel
+                Uuid: 618eb2b5-0ff0-40a0-beb0-4b3df8f04c08
+              - persistentName: Snap.Plugin.Gui.InspectorPanel
+                Uuid: 06e7578a-7aad-47a1-8a8f-4f3c8e4842aa
+            type: section
+            current: 1
+          - items:
+              - persistentName: Snap.Plugin.Gui.PreviewPanel
+                Uuid: 2279a7a0-6924-46fb-8ef7-7795259923d9
+            type: section
+            current: 0
+        sizes:
+          - 423
+          - 422
+        type: splitter
+        orientation: vertical
+    sizes:
+      - 390
+      - 607
+      - 429
+    type: splitter
+    orientation: horizontal

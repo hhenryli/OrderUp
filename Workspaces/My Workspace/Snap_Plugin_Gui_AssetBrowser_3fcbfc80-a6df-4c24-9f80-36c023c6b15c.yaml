@@ -1,0 +1,536 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 530
+    values:
+      - Base.png
+      - Capsule.mesh
+      - Cylinder.mesh
+      - Disc.mesh
+      - Echopark.hdr
+      - Image 2.mat
+      - Image 3.mat
+      - Image 4.mat
+      - Image 5.mat
+      - Image 6.mat
+      - Image 7.mat
+      - Image.mat
+      - Imported Food
+      - Imported Food/276_Sunny Side Up Egg.obj
+      - Imported Food/276_Sunny Side Up Egg.obj/276_Sunny Side Up Egg
+      - Imported Food/276_Sunny Side Up Egg.obj/Meshes/Sunny_Side_Up_Egg
+      - Imported Food/Bacon_Cooked.fbx
+      - Imported Food/Bacon_Cooked.fbx/.hidden
+      - Imported Food/Bacon_Cooked.fbx/.hidden/Light
+      - Imported Food/Bacon_Cooked.fbx/.hidden/white
+      - Imported Food/Bacon_Cooked.fbx/Bacon_Cooked
+      - Imported Food/Bacon_Cooked.fbx/Materials
+      - Imported Food/Bacon_Cooked.fbx/Materials/Light
+      - Imported Food/Bacon_Cooked.fbx/Materials/Meat1_Cooked
+      - Imported Food/Bacon_Cooked.fbx/Materials/Meat2_Cooked
+      - Imported Food/Bacon_Cooked.fbx/Materials/Meat3_Cooked
+      - Imported Food/Bacon_Cooked.fbx/Meshes
+      - Imported Food/Bacon_Cooked.fbx/Meshes/Bacon_Cooked
+      - Imported Food/Bacon_Cooked.fbx/Meshes/Bacon_Cooked1
+      - Imported Food/Bacon_Cooked.fbx/Meshes/Bacon_Cooked2
+      - Imported Food/Bacon_Cooked.fbx/Meshes/Bacon_Cooked3
+      - Imported Food/Bacon_Uncooked.fbx
+      - Imported Food/Bacon_Uncooked.fbx/.hidden
+      - Imported Food/Bacon_Uncooked.fbx/.hidden/LightYellow
+      - Imported Food/Bacon_Uncooked.fbx/.hidden/white
+      - Imported Food/Bacon_Uncooked.fbx/Bacon_Uncooked
+      - Imported Food/Bacon_Uncooked.fbx/Materials
+      - Imported Food/Bacon_Uncooked.fbx/Materials/LightYellow
+      - Imported Food/Bacon_Uncooked.fbx/Materials/Meat1
+      - Imported Food/Bacon_Uncooked.fbx/Materials/Meat2
+      - Imported Food/Bacon_Uncooked.fbx/Materials/Meat3
+      - Imported Food/Bacon_Uncooked.fbx/Meshes/Bacon_Uncooked
+      - Imported Food/Bacon_Uncooked.fbx/Meshes/Bacon_Uncooked1
+      - Imported Food/Bacon_Uncooked.fbx/Meshes/Bacon_Uncooked2
+      - Imported Food/Bacon_Uncooked.fbx/Meshes/Bacon_Uncooked3
+      - Imported Food/CHAHIN_STEAK.obj
+      - Imported Food/CHAHIN_STEAK.obj/.hidden
+      - Imported Food/CHAHIN_STEAK.obj/.hidden/Material.043
+      - Imported Food/CHAHIN_STEAK.obj/.hidden/white
+      - Imported Food/CHAHIN_STEAK.obj/CHAHIN_STEAK
+      - Imported Food/CHAHIN_STEAK.obj/Materials
+      - Imported Food/CHAHIN_STEAK.obj/Materials/Material.043
+      - Imported Food/CHAHIN_STEAK.obj/Meshes/Cube.014_Cube.044
+      - Imported Food/CHAHIN_STEAK.obj/Textures
+      - Imported Food/CHAHIN_STEAK.obj/Textures/CHAHIN_STEAK_TEXTURE
+      - Imported Food/Egg_Fried.fbx
+      - Imported Food/Egg_Fried.fbx/.hidden
+      - Imported Food/Egg_Fried.fbx/.hidden/White
+      - Imported Food/Egg_Fried.fbx/.hidden/white
+      - Imported Food/Egg_Fried.fbx/Egg_Fried
+      - Imported Food/Egg_Fried.fbx/Materials
+      - Imported Food/Egg_Fried.fbx/Materials/White
+      - Imported Food/Egg_Fried.fbx/Materials/Yellow
+      - Imported Food/Egg_Fried.fbx/Meshes/Egg_Fried
+      - Imported Food/Egg_Fried.fbx/Meshes/Egg_Fried1
+      - Imported Food/Egg_Whole.fbx
+      - Imported Food/Egg_Whole.fbx/.hidden
+      - Imported Food/Egg_Whole.fbx/.hidden/LightYellow
+      - Imported Food/Egg_Whole.fbx/.hidden/white
+      - Imported Food/Egg_Whole.fbx/Egg_Whole
+      - Imported Food/Egg_Whole.fbx/Materials
+      - Imported Food/Egg_Whole.fbx/Materials/LightYellow
+      - Imported Food/Egg_Whole.fbx/Meshes
+      - Imported Food/Egg_Whole.fbx/Meshes/Egg_Whole
+      - Imported Food/Fish.obj
+      - Imported Food/Fish.obj/Fish
+      - Imported Food/Fish.obj/Meshes/Fish
+      - Imported Food/ImageMaterial.mat
+      - Imported Food/Lettuce.fbx
+      - Imported Food/Lettuce.fbx/.hidden
+      - Imported Food/Lettuce.fbx/.hidden/LightGreen
+      - Imported Food/Lettuce.fbx/.hidden/white
+      - Imported Food/Lettuce.fbx/Lettuce
+      - Imported Food/Lettuce.fbx/Materials
+      - Imported Food/Lettuce.fbx/Materials/LightGreen
+      - Imported Food/Lettuce.fbx/Meshes/Lettuce
+      - Imported Food/Lettuce_Whole.fbx
+      - Imported Food/Lettuce_Whole.fbx/.hidden
+      - Imported Food/Lettuce_Whole.fbx/.hidden/PaleGreen
+      - Imported Food/Lettuce_Whole.fbx/.hidden/white
+      - Imported Food/Lettuce_Whole.fbx/Lettuce_Whole
+      - Imported Food/Lettuce_Whole.fbx/Materials
+      - Imported Food/Lettuce_Whole.fbx/Materials/PaleGreen
+      - Imported Food/Lettuce_Whole.fbx/Meshes
+      - Imported Food/Lettuce_Whole.fbx/Meshes/Lettuce_Whole
+      - Imported Food/Mushroom.fbx
+      - Imported Food/Mushroom.fbx/.hidden
+      - Imported Food/Mushroom.fbx/.hidden/LightBrown
+      - Imported Food/Mushroom.fbx/.hidden/white
+      - Imported Food/Mushroom.fbx/Materials
+      - Imported Food/Mushroom.fbx/Materials/LightBrown
+      - Imported Food/Mushroom.fbx/Meshes
+      - Imported Food/Mushroom.fbx/Meshes/Mushroom
+      - Imported Food/Mushroom.fbx/Mushroom
+      - Imported Food/Mushroom_Sliced.fbx
+      - Imported Food/Mushroom_Sliced.fbx/.hidden
+      - Imported Food/Mushroom_Sliced.fbx/.hidden/Beige
+      - Imported Food/Mushroom_Sliced.fbx/.hidden/white
+      - Imported Food/Mushroom_Sliced.fbx/Materials
+      - Imported Food/Mushroom_Sliced.fbx/Materials/Beige
+      - Imported Food/Mushroom_Sliced.fbx/Materials/LightBrown
+      - Imported Food/Mushroom_Sliced.fbx/Meshes/Mushroom_Slice
+      - Imported Food/Mushroom_Sliced.fbx/Meshes/Mushroom_Slice1
+      - Imported Food/Mushroom_Sliced.fbx/Mushroom_Sliced
+      - Imported Food/Pizza.fbx
+      - Imported Food/Pizza.fbx/.hidden
+      - Imported Food/Pizza.fbx/.hidden/LightYellow
+      - Imported Food/Pizza.fbx/.hidden/white
+      - Imported Food/Pizza.fbx/Materials
+      - Imported Food/Pizza.fbx/Materials/LightYellow
+      - Imported Food/Pizza.fbx/Materials/Red
+      - Imported Food/Pizza.fbx/Materials/Yellow
+      - Imported Food/Pizza.fbx/Meshes/Pizza
+      - Imported Food/Pizza.fbx/Meshes/Pizza1
+      - Imported Food/Pizza.fbx/Meshes/Pizza2
+      - Imported Food/Pizza.fbx/Pizza
+      - Imported Food/Pizza_Slice.fbx
+      - Imported Food/Pizza_Slice.fbx/.hidden
+      - Imported Food/Pizza_Slice.fbx/.hidden/LightYellow
+      - Imported Food/Pizza_Slice.fbx/.hidden/white
+      - Imported Food/Pizza_Slice.fbx/Materials
+      - Imported Food/Pizza_Slice.fbx/Materials/LightYellow
+      - Imported Food/Pizza_Slice.fbx/Materials/Red
+      - Imported Food/Pizza_Slice.fbx/Materials/Yellow
+      - Imported Food/Pizza_Slice.fbx/Meshes
+      - Imported Food/Pizza_Slice.fbx/Meshes/Pizza_Slice
+      - Imported Food/Pizza_Slice.fbx/Meshes/Pizza_Slice1
+      - Imported Food/Pizza_Slice.fbx/Meshes/Pizza_Slice2
+      - Imported Food/Pizza_Slice.fbx/Pizza_Slice
+      - Imported Food/Plate.fbx
+      - Imported Food/Plate.fbx/.hidden
+      - Imported Food/Plate.fbx/.hidden/White
+      - Imported Food/Plate.fbx/.hidden/white
+      - Imported Food/Plate.fbx/Materials
+      - Imported Food/Plate.fbx/Materials/White
+      - Imported Food/Plate.fbx/Meshes
+      - Imported Food/Plate.fbx/Meshes/Plate
+      - Imported Food/Plate.fbx/Plate
+      - Imported Food/Rice.fbx
+      - Imported Food/Rice.fbx/.hidden
+      - Imported Food/Rice.fbx/.hidden/Atlas
+      - Imported Food/Rice.fbx/.hidden/white
+      - Imported Food/Rice.fbx/Materials
+      - Imported Food/Rice.fbx/Materials/Atlas
+      - Imported Food/Rice.fbx/Meshes
+      - Imported Food/Rice.fbx/Meshes/FoodIngredient_Rice
+      - Imported Food/Rice.fbx/Rice
+      - Imported Food/Rice.fbx/Textures
+      - Imported Food/Rice.fbx/Textures/Sushi_Atlas
+      - Imported Food/Salmon.fbx
+      - Imported Food/Salmon.fbx/.hidden
+      - Imported Food/Salmon.fbx/.hidden/Atlas
+      - Imported Food/Salmon.fbx/.hidden/white
+      - Imported Food/Salmon.fbx/Materials
+      - Imported Food/Salmon.fbx/Materials/Atlas
+      - Imported Food/Salmon.fbx/Meshes/FoodIngredient_Salmon
+      - Imported Food/Salmon.fbx/Salmon
+      - Imported Food/Salmon.fbx/Textures/Sushi_Atlas
+      - Imported Food/Shrimp_01.obj
+      - Imported Food/Shrimp_01.obj/.hidden
+      - Imported Food/Shrimp_01.obj/.hidden/F06292
+      - Imported Food/Shrimp_01.obj/.hidden/white
+      - Imported Food/Shrimp_01.obj/Materials
+      - Imported Food/Shrimp_01.obj/Materials/F06292
+      - Imported Food/Shrimp_01.obj/Materials/F8BBD0
+      - Imported Food/Shrimp_01.obj/Materials/FFFFFF
+      - Imported Food/Shrimp_01.obj/Meshes
+      - Imported Food/Shrimp_01.obj/Meshes/Shrimp_Circle.007_1
+      - Imported Food/Shrimp_01.obj/Meshes/Shrimp_Circle.007_2
+      - Imported Food/Shrimp_01.obj/Meshes/Shrimp_Circle.007_3
+      - Imported Food/Shrimp_01.obj/Shrimp_01
+      - Imported Food/Toast.fbx
+      - Imported Food/Toast.fbx/.hidden
+      - Imported Food/Toast.fbx/.hidden/Cheese
+      - Imported Food/Toast.fbx/.hidden/white
+      - Imported Food/Toast.fbx/Materials
+      - Imported Food/Toast.fbx/Materials/Cheese
+      - Imported Food/Toast.fbx/Materials/Toast
+      - Imported Food/Toast.fbx/Meshes/Bread_ButterToast
+      - Imported Food/Toast.fbx/Meshes/Bread_HalfA
+      - Imported Food/Toast.fbx/Meshes/Bread_HalfB
+      - Imported Food/Toast.fbx/Meshes/Bread_HalfB001
+      - Imported Food/Toast.fbx/Meshes/Bread_Slice
+      - Imported Food/Toast.fbx/Meshes/Bread_Toasted
+      - Imported Food/Toast.fbx/Meshes/GrilledCheese_HalfA
+      - Imported Food/Toast.fbx/Meshes/GrilledCheese_HalfB
+      - Imported Food/Toast.fbx/Meshes/GrilledCheese_HalfB001
+      - Imported Food/Toast.fbx/Textures
+      - Imported Food/Toast.fbx/Textures/Toast_C
+      - Imported Food/Toast.fbx/Textures/Toast_N
+      - Imported Food/Toast.fbx/Toast
+      - Imported Food/Tomato
+      - Imported Food/Tomato.mesh
+      - Imported Food/Tomato/.hidden/DarkGreen.ss_graph
+      - Imported Food/Tomato/.hidden/white.jpg
+      - Imported Food/Tomato/Materials/DarkGreen.mat
+      - Imported Food/Tomato/Materials/DarkRed.mat
+      - Imported Food/Tomato/Meshes
+      - Imported Food/Tomato/Meshes/Tomato.mesh
+      - Imported Food/Tomato/Meshes/Tomato1.mesh
+      - Imported Food/bread.fbx
+      - Imported Food/bread.fbx/.hidden
+      - Imported Food/bread.fbx/.hidden/tiny_treats_1
+      - Imported Food/bread.fbx/.hidden/white
+      - Imported Food/bread.fbx/Materials
+      - Imported Food/bread.fbx/Materials/tiny_treats_1
+      - Imported Food/bread.fbx/Meshes
+      - Imported Food/bread.fbx/Meshes/bread
+      - Imported Food/bread.fbx/Textures
+      - Imported Food/bread.fbx/Textures/tiny_treats_texture_1
+      - Imported Food/bread.fbx/bread
+      - Imported Food/cheese.fbx
+      - Imported Food/cheese.fbx/.hidden
+      - Imported Food/cheese.fbx/.hidden/Material
+      - Imported Food/cheese.fbx/.hidden/white
+      - Imported Food/cheese.fbx/Materials
+      - Imported Food/cheese.fbx/Materials/Material
+      - Imported Food/cheese.fbx/Meshes
+      - Imported Food/cheese.fbx/Meshes/Cube
+      - Imported Food/cheese.fbx/cheese
+      - Imported Food/fish_low_poly.glb
+      - Imported Food/fish_low_poly.glb/.hidden
+      - Imported Food/fish_low_poly.glb/.hidden/Material
+      - Imported Food/fish_low_poly.glb/Materials
+      - Imported Food/fish_low_poly.glb/Materials/Material
+      - Imported Food/fish_low_poly.glb/Meshes/Object_0
+      - Imported Food/fish_low_poly.glb/fish_low_poly
+      - Imported Food/food_ingredient_bun.fbx
+      - Imported Food/food_ingredient_bun.fbx/.hidden
+      - Imported Food/food_ingredient_bun.fbx/.hidden/restaurant
+      - Imported Food/food_ingredient_bun.fbx/.hidden/white
+      - Imported Food/food_ingredient_bun.fbx/Materials
+      - Imported Food/food_ingredient_bun.fbx/Materials/restaurant
+      - Imported Food/food_ingredient_bun.fbx/Meshes
+      - Imported Food/food_ingredient_bun.fbx/Meshes/food_ingredient_bun
+      - Imported Food/food_ingredient_bun.fbx/Textures
+      - Imported Food/food_ingredient_bun.fbx/Textures/restaurantbits_texture
+      - Imported Food/food_ingredient_bun.fbx/food_ingredient_bun
+      - Imported Food/food_ingredient_cheese_chopped.fbx
+      - Imported Food/food_ingredient_cheese_chopped.fbx/.hidden
+      - Imported Food/food_ingredient_cheese_chopped.fbx/.hidden/restaurant
+      - Imported Food/food_ingredient_cheese_chopped.fbx/.hidden/white
+      - Imported Food/food_ingredient_cheese_chopped.fbx/Materials
+      - Imported Food/food_ingredient_cheese_chopped.fbx/Materials/restaurant
+      - Imported Food/food_ingredient_cheese_chopped.fbx/Meshes/food_ingredient_cheese_chopped
+      - Imported Food/food_ingredient_cheese_chopped.fbx/Textures/restaurantbits_texture
+      - Imported Food/food_ingredient_cheese_chopped.fbx/food_ingredient_cheese_chopped
+      - Imported Food/food_ingredient_cheese_slice.fbx
+      - Imported Food/food_ingredient_cheese_slice.fbx/.hidden
+      - Imported Food/food_ingredient_cheese_slice.fbx/.hidden/restaurant
+      - Imported Food/food_ingredient_cheese_slice.fbx/.hidden/white
+      - Imported Food/food_ingredient_cheese_slice.fbx/Materials
+      - Imported Food/food_ingredient_cheese_slice.fbx/Materials/restaurant
+      - Imported Food/food_ingredient_cheese_slice.fbx/Meshes/food_ingredient_cheese_slice
+      - Imported Food/food_ingredient_cheese_slice.fbx/Textures/restaurantbits_texture
+      - Imported Food/food_ingredient_cheese_slice.fbx/food_ingredient_cheese_slice
+      - Imported Food/meatPatty.obj
+      - Imported Food/meatPatty.obj/.hidden
+      - Imported Food/meatPatty.obj/.hidden/brownDark
+      - Imported Food/meatPatty.obj/.hidden/white
+      - Imported Food/meatPatty.obj/Materials
+      - Imported Food/meatPatty.obj/Materials/brownDark
+      - Imported Food/meatPatty.obj/Materials/brownDarkest
+      - Imported Food/meatPatty.obj/Meshes/meatPatty_1
+      - Imported Food/meatPatty.obj/Meshes/meatPatty_2
+      - Imported Food/meatPatty.obj/meatPatty
+      - Ingredient Prefabs
+      - Ingredient Prefabs/Bacon.prefab
+      - Ingredient Prefabs/Bread.prefab
+      - Ingredient Prefabs/Bun.prefab
+      - Ingredient Prefabs/Cheese.prefab
+      - Ingredient Prefabs/Fish.prefab
+      - Ingredient Prefabs/Lettuce.prefab
+      - Ingredient Prefabs/Mushroom.prefab
+      - Ingredient Prefabs/Patty.prefab
+      - Ingredient Prefabs/Pizza.prefab
+      - Ingredient Prefabs/Rice.prefab
+      - Ingredient Prefabs/Shrimp.prefab
+      - Ingredient Prefabs/Steak.prefab
+      - Ingredient Prefabs/Tomato.prefab
+      - Javascript
+      - Javascript/BoardScript.js
+      - Javascript/ConfigScript.js
+      - Javascript/Food.js
+      - Javascript/FoodScript.js
+      - Javascript/GestureTracker.js
+      - Javascript/KitchenManager.js
+      - Javascript/PanScript.js
+      - Javascript/PlateScript.js
+      - Javascript/SpawnButtonScript.js
+      - Javascript/SubmissionScript.js
+      - Javascript/TimerScript.js
+      - Materials
+      - Materials/Base.png
+      - Materials/DarkRed.mat
+      - Materials/Glass.ss_graph
+      - Materials/GlassMaterial.mat
+      - Materials/LettuceMaterial.mat
+      - Materials/MaterialParams.png
+      - Materials/MetalMaterial.mat
+      - Materials/Metals.ss_graph
+      - Materials/Normal.png
+      - Materials/NormalMaterial.mat
+      - Materials/OMaterial.mat
+      - Materials/PBR.mat
+      - Materials/WoodMaterial.mat
+      - Materials/pbr.ss_graph
+      - Materials/plastic.ss_graph
+      - Materials/simple_sharp.jpg
+      - Materials/woods.ss_graph
+      - Matte Shadow.mat
+      - ObjectPrefab/CuttingBoard.prefab
+      - ObjectPrefab/FryingPan.fbx
+      - ObjectPrefab/FryingPan.fbx/.hidden
+      - ObjectPrefab/FryingPan.fbx/.hidden/DarkBrown
+      - ObjectPrefab/FryingPan.fbx/.hidden/white
+      - ObjectPrefab/FryingPan.fbx/FryingPan
+      - ObjectPrefab/FryingPan.fbx/Materials
+      - ObjectPrefab/FryingPan.fbx/Materials/DarkBrown
+      - ObjectPrefab/FryingPan.fbx/Materials/Grey
+      - ObjectPrefab/FryingPan.fbx/Meshes/FryingPan
+      - ObjectPrefab/FryingPan.fbx/Meshes/FryingPan1
+      - ObjectPrefab/Pan.prefab
+      - ObjectPrefab/Plate.prefab
+      - ObjectPrefab/board_cutting_board_001.obj
+      - ObjectPrefab/board_cutting_board_001.obj/.hidden
+      - ObjectPrefab/board_cutting_board_001.obj/.hidden/Solid.092
+      - ObjectPrefab/board_cutting_board_001.obj/.hidden/white
+      - ObjectPrefab/board_cutting_board_001.obj/Materials
+      - ObjectPrefab/board_cutting_board_001.obj/Materials/Solid.092
+      - ObjectPrefab/board_cutting_board_001.obj/Meshes/board_cutting_board.001_Cube.117
+      - ObjectPrefab/board_cutting_board_001.obj/Textures
+      - ObjectPrefab/board_cutting_board_001.obj/Textures/board_cutting_board_001
+      - ObjectPrefab/board_cutting_board_001.obj/board_cutting_board_001
+      - ObjectPrefab/model.obj
+      - ObjectPrefab/model.obj/.hidden
+      - ObjectPrefab/model.obj/.hidden/mat13
+      - ObjectPrefab/model.obj/.hidden/white
+      - ObjectPrefab/model.obj/Materials
+      - ObjectPrefab/model.obj/Materials/mat13
+      - ObjectPrefab/model.obj/Materials/mat15
+      - ObjectPrefab/model.obj/Materials/mat16
+      - ObjectPrefab/model.obj/Materials/mat17
+      - ObjectPrefab/model.obj/Materials/mat18
+      - ObjectPrefab/model.obj/Materials/mat21
+      - ObjectPrefab/model.obj/Materials/mat23
+      - ObjectPrefab/model.obj/Materials/mat4
+      - ObjectPrefab/model.obj/Materials/mat9
+      - ObjectPrefab/model.obj/Meshes
+      - ObjectPrefab/model.obj/Meshes/mesh101818993
+      - ObjectPrefab/model.obj/Meshes/mesh1086031423
+      - ObjectPrefab/model.obj/Meshes/mesh1092686708_1
+      - ObjectPrefab/model.obj/Meshes/mesh1092686708_2
+      - ObjectPrefab/model.obj/Meshes/mesh1092686708_3
+      - ObjectPrefab/model.obj/Meshes/mesh1092686708_4
+      - ObjectPrefab/model.obj/Meshes/mesh1183679381
+      - ObjectPrefab/model.obj/Meshes/mesh1271310404_1
+      - ObjectPrefab/model.obj/Meshes/mesh1271310404_2
+      - ObjectPrefab/model.obj/Meshes/mesh1271310404_3
+      - ObjectPrefab/model.obj/Meshes/mesh1271310404_4
+      - ObjectPrefab/model.obj/Meshes/mesh1307351803
+      - ObjectPrefab/model.obj/Meshes/mesh1434556701
+      - ObjectPrefab/model.obj/Meshes/mesh1631651849
+      - ObjectPrefab/model.obj/Meshes/mesh1647464667_1
+      - ObjectPrefab/model.obj/Meshes/mesh1647464667_2
+      - ObjectPrefab/model.obj/Meshes/mesh1647464667_3
+      - ObjectPrefab/model.obj/Meshes/mesh1647464667_4
+      - ObjectPrefab/model.obj/Meshes/mesh1709927739
+      - ObjectPrefab/model.obj/Meshes/mesh1798588894
+      - ObjectPrefab/model.obj/Meshes/mesh1808298422_1
+      - ObjectPrefab/model.obj/Meshes/mesh1808298422_2
+      - ObjectPrefab/model.obj/Meshes/mesh1808298422_3
+      - ObjectPrefab/model.obj/Meshes/mesh1808298422_4
+      - ObjectPrefab/model.obj/Meshes/mesh1825844925
+      - ObjectPrefab/model.obj/Meshes/mesh1891252473_1
+      - ObjectPrefab/model.obj/Meshes/mesh1891252473_2
+      - ObjectPrefab/model.obj/Meshes/mesh1891252473_3
+      - ObjectPrefab/model.obj/Meshes/mesh1891252473_4
+      - ObjectPrefab/model.obj/Meshes/mesh1891252473_5
+      - ObjectPrefab/model.obj/Meshes/mesh2088504716
+      - ObjectPrefab/model.obj/Meshes/mesh2146076598
+      - ObjectPrefab/model.obj/Meshes/mesh239368340
+      - ObjectPrefab/model.obj/Meshes/mesh24178565
+      - ObjectPrefab/model.obj/Meshes/mesh266786956
+      - ObjectPrefab/model.obj/Meshes/mesh346295656
+      - ObjectPrefab/model.obj/Meshes/mesh368228645
+      - ObjectPrefab/model.obj/Meshes/mesh436816632
+      - ObjectPrefab/model.obj/Meshes/mesh551125605
+      - ObjectPrefab/model.obj/Meshes/mesh567284715
+      - ObjectPrefab/model.obj/Meshes/mesh572770700
+      - ObjectPrefab/model.obj/Meshes/mesh596952348_1
+      - ObjectPrefab/model.obj/Meshes/mesh596952348_2
+      - ObjectPrefab/model.obj/Meshes/mesh596952348_3
+      - ObjectPrefab/model.obj/Meshes/mesh596952348_4
+      - ObjectPrefab/model.obj/Meshes/mesh638641683
+      - ObjectPrefab/model.obj/Meshes/mesh884443619
+      - ObjectPrefab/model.obj/Meshes/mesh934729322_1
+      - ObjectPrefab/model.obj/Meshes/mesh934729322_2
+      - ObjectPrefab/model.obj/Meshes/mesh934729322_3
+      - ObjectPrefab/model.obj/Meshes/mesh938269490
+      - ObjectPrefab/model.obj/Meshes/mesh944767584
+      - ObjectPrefab/model.obj/Meshes/mesh959526367
+      - ObjectPrefab/model.obj/Meshes/mesh965558297_1
+      - ObjectPrefab/model.obj/Meshes/mesh965558297_2
+      - ObjectPrefab/model.obj/Meshes/mesh965558297_3
+      - ObjectPrefab/model.obj/Meshes/mesh965558297_4
+      - ObjectPrefab/model.obj/model
+      - Plane.mesh
+      - SpectaclesInteractionKit.lspkg
+      - SpectaclesInteractionKit.lspkg/Assets
+      - SpectaclesInteractionKit.lspkg/Assets/Audio
+      - SpectaclesInteractionKit.lspkg/Assets/Materials
+      - SpectaclesInteractionKit.lspkg/Assets/Meshes
+      - SpectaclesInteractionKit.lspkg/Assets/Shaders
+      - SpectaclesInteractionKit.lspkg/Assets/Textures
+      - SpectaclesInteractionKit.lspkg/Components
+      - SpectaclesInteractionKit.lspkg/Components/Helpers
+      - SpectaclesInteractionKit.lspkg/Components/Interaction
+      - SpectaclesInteractionKit.lspkg/Components/Interaction/Billboard
+      - SpectaclesInteractionKit.lspkg/Components/Interaction/HandVisual
+      - SpectaclesInteractionKit.lspkg/Components/Interaction/Headlock
+      - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractableManipulation
+      - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractionPlane
+      - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractorCursor
+      - SpectaclesInteractionKit.lspkg/Components/Interaction/InteractorLineVisual
+      - SpectaclesInteractionKit.lspkg/Components/UI
+      - SpectaclesInteractionKit.lspkg/Components/UI/ContainerFrame/Materials
+      - SpectaclesInteractionKit.lspkg/Components/UI/ContainerFrame/Meshes
+      - SpectaclesInteractionKit.lspkg/Components/UI/ContainerFrame/Prefabs
+      - SpectaclesInteractionKit.lspkg/Components/UI/ContainerFrame/Textures
+      - SpectaclesInteractionKit.lspkg/Components/UI/ContainerFrame/modules
+      - SpectaclesInteractionKit.lspkg/Components/UI/PinchButton
+      - SpectaclesInteractionKit.lspkg/Components/UI/ScrollBar
+      - SpectaclesInteractionKit.lspkg/Components/UI/ScrollView
+      - SpectaclesInteractionKit.lspkg/Components/UI/Slider
+      - SpectaclesInteractionKit.lspkg/Components/UI/ToggleButton
+      - SpectaclesInteractionKit.lspkg/Core
+      - SpectaclesInteractionKit.lspkg/Core/Interactor
+      - SpectaclesInteractionKit.lspkg/Decorators
+      - SpectaclesInteractionKit.lspkg/Prefabs
+      - SpectaclesInteractionKit.lspkg/Providers
+      - SpectaclesInteractionKit.lspkg/Providers/CursorControllerProvider
+      - SpectaclesInteractionKit.lspkg/Providers/HandInputData/GestureProvider/PinchDetection/DetectionStrategies
+      - SpectaclesInteractionKit.lspkg/Utils
+      - SpectaclesInteractionKit.lspkg/package.native
+      - SpectaclesSyncKit.lspkg/Components
+      - SpectaclesSyncKit.lspkg/Components/SyncHelpers
+      - SpectaclesSyncKit.lspkg/Core
+      - SpectaclesSyncKit.lspkg/Examples
+      - SpectaclesSyncKit.lspkg/Examples/DisplayStorageProperty
+      - SpectaclesSyncKit.lspkg/Examples/Materials
+      - SpectaclesSyncKit.lspkg/Examples/StorageProperty
+      - SpectaclesSyncKit.lspkg/Examples/SyncEntityDebug
+      - SpectaclesSyncKit.lspkg/Mapping
+      - SpectaclesSyncKit.lspkg/Mapping/Assets
+      - SpectaclesSyncKit.lspkg/Mapping/Assets/Textures/SpinnerLoader.t3d
+      - SpectaclesSyncKit.lspkg/Mapping/Assets/Textures/SpinnerLoader.t3d/SpinnerLoader
+      - SpectaclesSyncKit.lspkg/Mapping/Assets/Textures/SpinnerLoader.t3d/spinner_loader_0.png
+      - SpectaclesSyncKit.lspkg/Mapping/src/EntryPointComponents
+      - SpectaclesSyncKit.lspkg/Mapping/src/MappingFlowStates
+      - SpectaclesSyncKit.lspkg/Mapping/src/Texts/ITitledText.ts
+      - SpectaclesSyncKit.lspkg/Mapping/src/Texts/MessageTextsEnum.ts
+      - SpectaclesSyncKit.lspkg/Utils
+      - SpectaclesSyncKit.lspkg/package.native
+      - Tomato_Slice.fbx
+      - Tomato_Slice.fbx/.hidden
+      - Tomato_Slice.fbx/.hidden/Red
+      - Tomato_Slice.fbx/.hidden/white
+      - Tomato_Slice.fbx/Materials
+      - Tomato_Slice.fbx/Materials/Red
+      - Tomato_Slice.fbx/Meshes/Tomato_Slice
+      - Tomato_Slice.fbx/Tomato_Slice
+      - flat.ss_graph
+      - image_unlit.ss_graph
+      - images
+      - images/ImageMaterial 2.mat
+      - images/ImageMaterial.mat
+      - images/background.jpg
+      - images/pan.png
+      - images/recipe.jpg
+      - images/white.jpg
+      - matte_shadow.ss_graph
+      - model.obj
+      - model.obj/.hidden
+      - model.obj/.hidden/mat0
+      - model.obj/.hidden/white
+      - model.obj/Materials
+      - model.obj/Materials/mat0
+      - model.obj/Materials/mat1
+      - model.obj/Materials/mat10
+      - model.obj/Materials/mat11
+      - model.obj/Materials/mat12
+      - model.obj/Materials/mat13
+      - model.obj/Materials/mat14
+      - model.obj/Materials/mat15
+      - model.obj/Materials/mat16
+      - model.obj/Materials/mat17
+      - model.obj/Materials/mat18
+      - model.obj/Materials/mat19
+      - model.obj/Materials/mat2
+      - model.obj/Materials/mat20
+      - model.obj/Materials/mat21
+      - model.obj/Materials/mat22
+      - model.obj/Materials/mat23
+      - model.obj/Materials/mat24
+      - model.obj/Materials/mat25
+      - model.obj/Materials/mat3
+      - model.obj/Materials/mat4
+      - model.obj/Materials/mat5
+      - model.obj/Materials/mat6
+      - model.obj/Materials/mat7
+      - model.obj/Materials/mat8
+      - model.obj/Materials/mat9
+      - model.obj/Meshes
+      - model.obj/Meshes/mesh1593787975
+      - model.obj/Meshes/mesh2105204371
+      - model.obj/Meshes/mesh780585218
+      - model.obj/model
+      - pbr.ss_graph
+      - simple_pbr.ss_graph
+  options: 4
